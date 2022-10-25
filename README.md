@@ -4,7 +4,7 @@
 ## Description
 [Ciranda](https://www.ciranda.com/) supplies brands and manufacturers with the highest quality certified organic and non-GMO ingredients. As part of its' sustainability mission, Ciranda wants to help customers properly recycle commercial shipping containers such as a metal drums, plastic drums, intermediate bulk containers (IBCs), plastic film, and cardboard.
 
-(To interact with the application you can try it here)[https://glacial-depths-02868.herokuapp.com/#/search]
+##[To interact with the application you can try it here.](https://glacial-depths-02868.herokuapp.com/#/search)
 
 Ciranda tasked our team with building a search engine user interface that allows customers to search for, locate, and contact recycling companies in their area to meet their needs. Ciranda Recycling Center Interface was created in partnership with [Prime Digital Academy](https://www.primeacademy.io/) by [John Idso](https://www.linkedin.com/in/johnidso/), [Kong Yang](https://www.linkedin.com/in/kong-yang-founder/), [Shawn White](https://www.linkedin.com/in/shawn-white-20a2a486/), [Matthew Bouc](https://www.linkedin.com/in/matthew-bouc/), and [Steve Savstrom](https://www.linkedin.com/in/stevesavstrom/).
 
